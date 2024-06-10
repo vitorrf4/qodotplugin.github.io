@@ -63,7 +63,7 @@ A filepath that should point to your computer's Trenchbroom installation. This l
 
 For Windows and Linux, this folder should be prefixed by where you unzipped/installed Trenchbroom to.
 
-If you can't write to your installation folder, you can also use the user data folder for your OS as shown belopw:
+If you can't write to your installation folder, you can also use the user data folder for your OS as shown below:
 
 | Platform | Location |
 | -------- | ---------|
